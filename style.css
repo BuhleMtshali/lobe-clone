@@ -1,0 +1,10 @@
+:root {
+  background-color: white;
+  --grey-text-color: #767676;
+  --dark-grey-text: #333;
+  --green-theme-color: #04ddb2;
+}
+
+body {
+  margin: 0;
+}
